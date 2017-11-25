@@ -37,4 +37,4 @@
 1. Установить [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
 2. [Создать приложение] и задеплоить (https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
 
-Результат [выглядит так](https://hidden-brook-8135.herokuapp.com).
+Результат [выглядит так](https://enigmatic-temple-67838.herokuapp.com/).
